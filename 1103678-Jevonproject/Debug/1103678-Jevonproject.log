@@ -1,0 +1,104 @@
+﻿Build started 04/09/2016 21:20:51.
+     1>Project "C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\1103678-Jevonproject\1103678-Jevonproject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\1103678-Jevonproject.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt project.cpp
+         project.cpp
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(81): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(101): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(108): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(110): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(112): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(114): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(116): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(118): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(93): warning C4101: 'choice' : unreferenced local variable
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(155): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(161): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(174): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(185): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(202): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(217): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(222): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(226): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(229): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(236): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(257): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(288): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(306): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(328): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(333): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(337): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(843) : see declaration of '_sleep'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(351): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(367): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(370): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(374): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(379): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(410): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(416): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(432): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\jevon\documents\visual studio 2010\projects\1103678-jevonproject\1103678-jevonproject\project.cpp(458): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\1103678-Jevonproject.exe.embed.manifest.res" Debug\1103678-Jevonproject_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\Debug\1103678-Jevonproject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\1103678-Jevonproject.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\Debug\1103678-Jevonproject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\Debug\1103678-Jevonproject.lib" /MACHINE:X86 "Debug\1103678-Jevonproject.exe.embed.manifest.res"
+         Debug\project.obj
+       Manifest:
+         Deleting file "Debug\1103678-Jevonproject.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\1103678-Jevonproject.exe.embed.manifest" /manifest "Debug\1103678-Jevonproject.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\1103678-Jevonproject.exe.embed.manifest.res" Debug\1103678-Jevonproject_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\Debug\1103678-Jevonproject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\1103678-Jevonproject.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\Debug\1103678-Jevonproject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\Debug\1103678-Jevonproject.lib" /MACHINE:X86 "Debug\1103678-Jevonproject.exe.embed.manifest.res"
+         Debug\project.obj
+         1103678-Jevonproject.vcxproj -> C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\Debug\1103678-Jevonproject.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\1103678-Jevonproject.unsuccessfulbuild".
+         Touching "Debug\1103678-Jevonproject.lastbuildstate".
+     1>Done Building Project "C:\Users\Jevon\Documents\Visual Studio 2010\Projects\1103678-Jevonproject\1103678-Jevonproject\1103678-Jevonproject.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.44
